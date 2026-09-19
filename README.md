@@ -1,2 +1,2 @@
 # goodday
-x.shopshop.info/goodday
+https://x.shopshop.info/goodday
